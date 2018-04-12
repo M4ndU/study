@@ -1,4 +1,4 @@
-공부/
+공부/과제등등
 ================
 - - -
 >Calculator_quadratic.py
